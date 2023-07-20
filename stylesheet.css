@@ -1,0 +1,27 @@
+body{
+    
+    background-color:#81ecec    ;
+}
+#headersection
+   {padding: 10;
+   }
+#headersection h1{
+    font-family: cursive;
+}
+input{
+    padding : 10;
+    border: outset;
+
+}
+#dropbox {
+    padding :10;
+   
+   border: outset;
+
+}
+#loginbutton{
+    padding: 5;
+    background-color : #0984e3; 
+    color : white;
+    border: outset;
+}
